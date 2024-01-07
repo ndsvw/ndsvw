@@ -20,7 +20,8 @@
 - 🤝 With special thanks to [Alan Turing](https://de.wikipedia.org/wiki/Alan_Turing) for making this possible
 
 - ⚡ Fun fact **C# = (C++)++**
-- https://github.com/ndsvw/Fluent-Random-Picker/pull/53
+
+- ✨ Successful pull request in the .Net runtime repository: https://github.com/dotnet/runtime/pull/96573
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

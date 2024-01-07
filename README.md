@@ -20,6 +20,7 @@
 - 🤝 With special thanks to [Alan Turing](https://de.wikipedia.org/wiki/Alan_Turing) for making this possible
 
 - ⚡ Fun fact **C# = (C++)++**
+- https://github.com/ndsvw/Fluent-Random-Picker/pull/53
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndsvw&show_icons=true&locale=en" alt="ndsvw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndsvw&" alt="ndsvw" /></p>
+
+<p><i>The profile template was generated with <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">GitHub Profile README Generator</a></i></p>

@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C#, asymptotic computational complexity or Docker**
 
-- 📫 How to reach me **ndsvw@gmx.de**
+- 📫 How to reach me: **@ndsvw:yatrix.org**
 
 - 🗣️ Fluent in German, English and C#
 
